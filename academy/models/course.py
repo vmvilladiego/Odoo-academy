@@ -13,7 +13,7 @@ class Course(models.Model):
                              selection=[
                                  ('beginner','Beginner'),
                                  ('intermediate','Intermediate'),
-                                 ('advance','Advance'),
+                                 ('advanced','Advance'),
                              ],
                              copy=False)
     
