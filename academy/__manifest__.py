@@ -10,7 +10,7 @@
         - Sessions
         - Attendees
             """,
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'author': 'MIGUEL VILLADIEGO GARCIA',
     'website': 'vmvg.com',
     'category': 'Custom Modules/Tech Training',
